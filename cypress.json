@@ -4,8 +4,10 @@
     "experimentalSourceRewriting": true,
     "watchForFileChanges": false,
     "testFiles": "**/*.*spec.*",
-    "reporter":"cypress-multi-reporters",
-    "reporterOptions":{
-        "configFile": "reporter-config.json"
-    }   
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "overwrite": false,
+        "html": false,
+        "json": true
+    } 
 }
