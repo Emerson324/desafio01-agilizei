@@ -1,4 +1,6 @@
-# Desafio 01 - Bootcamp Agilizei
+# Desafio 01 - Bootcamp 
+
+## Vídeo da execução do teste automatizado do desafio
 
 ![Execução teste automatizado](https://media.giphy.com/media/3YX8X4NRU93ZP2VTJW/giphy.gif)
 
