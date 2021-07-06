@@ -1,5 +1,7 @@
 # Desafio 01 - Bootcamp Agilizei
 
+![Execução teste automatizado](https://media.giphy.com/media/3YX8X4NRU93ZP2VTJW/giphy.gif)
+
 ## Ferramenta utilizada
 Cypress
 
