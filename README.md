@@ -2,6 +2,8 @@
 
 ![Execução teste automatizado](https://media.giphy.com/media/3YX8X4NRU93ZP2VTJW/giphy.gif)
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3YX8X4NRU93ZP2VTJW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/3YX8X4NRU93ZP2VTJW">via GIPHY</a></p>
+
 ## Ferramenta utilizada
 Cypress
 
