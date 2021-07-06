@@ -4,10 +4,6 @@
 
 ![Execução teste automatizado](https://media.giphy.com/media/3YX8X4NRU93ZP2VTJW/giphy.gif)
 
-<img src="https://media.giphy.com/media/3YX8X4NRU93ZP2VTJW/giphy.gif" width="600" height="400"/>
-
-
-
 ## Ferramenta utilizada
 Cypress
 
